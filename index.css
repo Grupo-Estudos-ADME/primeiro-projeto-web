@@ -1,0 +1,31 @@
+body {
+    display: block;
+    margin: 0;
+    background-color: lightslategrey;
+}
+
+.container {
+    margin-top: 80px;
+    height: 200px;
+    width: 100%;
+}
+
+.background-white {
+    background-color: white;
+}
+
+.background-gray {
+    background-color: gray;
+}
+
+.image-section {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.image-section img {
+    width: 100px;
+}
